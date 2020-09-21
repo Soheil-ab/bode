@@ -1,5 +1,6 @@
 # BoDe v1.0
-BoDe: Bounded Delay Queue
+BoDe (Bounded Delay Queue) is a simple yet effective delay-oriented AQM that can "Bound Queue Delay in Cellular Networks to Support Ultra-Low Latency Applications". You can find the paper describing it in more details here: https://arxiv.org/abs/1908.00953
+
 
 Installation Guide
 ==================
